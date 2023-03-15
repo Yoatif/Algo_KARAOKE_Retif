@@ -1,0 +1,15 @@
+Player					Karaoke
+_____________________		       _______________
+
+pseudo					listJoueur
+score
+					listChanson
+_____________________		       _______________
+
+getScore				setNewPlayer
+getMeilleurScore			deletePlayer
+getPireScore				getMeilleureScore
+setScore				getMeilleureScoreTotal
+					getMeilleureMoy
+					getJoueur
+					getChanson
